@@ -7,3 +7,5 @@ My name's thuy vui
 my age is 18
 hi
 hello vui
+My name is Khoa :D
+my name's thuy vui
