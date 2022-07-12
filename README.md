@@ -1,4 +1,3 @@
 # test-repo
 Hello World!
-My name is Khoa :D
-sss
+My name is Khoa BUGGGG :D
