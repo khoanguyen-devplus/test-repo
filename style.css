@@ -2,4 +2,13 @@ h2 {
 	color: red;
 	font-size: 20px;
 	margin: 0 auto;
+	padding: 10px;
+	font-style: italic;
 }
+
+p {
+	font-size: 12px;
+	color: lime;
+}
+
+
