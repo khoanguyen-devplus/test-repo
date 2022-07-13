@@ -4,6 +4,8 @@ h2 {
 	margin: 0 auto;
 	padding: 10px;
 	font-style: italic;
+	overflow: hidden;
+	background-color: red;
 }
 
 p {
