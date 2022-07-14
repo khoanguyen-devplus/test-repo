@@ -16,6 +16,10 @@ p {
 div {
 	background-color: blueviolet;
 	border-radius: 50%;
+<<<<<<< HEAD
 	color: blue;
+=======
+	overflow: hidden;
+>>>>>>> 69d8e5e (add overflow)
 }
 
