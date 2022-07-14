@@ -24,4 +24,10 @@ textarea {
 	width: 200px;
 	height: 120px;
 	font-size: 24px;
+
+}
+
+span {
+	color: green;
+	font-size: 12px;
 }
