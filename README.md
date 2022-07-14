@@ -30,6 +30,8 @@ hello vui
 My name is Khoa :D
 my name's thuy vui
 we are laughnlearn!!!
-try working hard and be the best guy. 
+try working hard and be the best guy.
 you will be the worst unless you don't make it.
 haha
+we are laugh n learn
+include khoa, nhut, son and vui
