@@ -34,4 +34,8 @@ try working hard and be the best guy.
 you will be the worst unless you don't make it.
 haha
 we are laugh n learn
+<<<<<<< HEAD
 include khoa, nhut, son and vui
+=======
+include nha, khoa, nhut, son and vui
+>>>>>>> b958f1a (Update README.md)
