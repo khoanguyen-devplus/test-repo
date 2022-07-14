@@ -10,4 +10,6 @@ hi
 hello vui
 My name is Khoa :D
 my name's thuy vui
-we are laughnlearn!!!!
+we are laughnlearn!!!
+try working hard and be the best guy. 
+you will be the worst unless you don't make it.
