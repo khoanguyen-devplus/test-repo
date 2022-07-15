@@ -20,24 +20,15 @@ div {
 	border-radius: 50%;
 	color: blue;
 	overflow: hidden;
-<<<<<<< HEAD
 }
 
 textarea {
 	width: 200px;
 	height: 120px;
 	font-size: 24px;
-=======
->>>>>>> 5668ccf (change styles)
 }
 
 span {
 	color: green;
 	font-size: 12px;
-}
-
-textarea {
-	width: 200px;
-	height: 120px;
-	font-size: 24px;
 }
