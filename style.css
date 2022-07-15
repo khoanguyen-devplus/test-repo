@@ -11,6 +11,8 @@ h2 {
 p {
 	font-size: 12px;
 	color: lime;
+	overflow: auto;
+	background-color: redd;
 }
 
 div {
@@ -24,4 +26,9 @@ textarea {
 	width: 200px;
 	height: 120px;
 	font-size: 24px;
+}
+
+span {
+	color: green;
+	font-size: 12px;
 }
